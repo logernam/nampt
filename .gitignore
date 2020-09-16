@@ -1,0 +1,5 @@
+.env
+.idea
+*.gem
+docker-compose.yml
+Dockerfile
